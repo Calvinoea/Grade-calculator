@@ -1,0 +1,16 @@
+* {
+    background: cornflowerblue;
+}
+
+#num {
+    background: pink;
+    height: 70%;
+    width: 40%;
+    cursor: pointer;
+    margin-top: 20%;
+}
+
+button {
+    background: white;
+    cursor: grab;
+}
